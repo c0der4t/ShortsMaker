@@ -1,0 +1,15 @@
+C:\Users\monte\Dev\ShortsMaker\bin\Debug\net6.0\ShortsMaker.exe
+C:\Users\monte\Dev\ShortsMaker\bin\Debug\net6.0\ShortsMaker.deps.json
+C:\Users\monte\Dev\ShortsMaker\bin\Debug\net6.0\ShortsMaker.runtimeconfig.json
+C:\Users\monte\Dev\ShortsMaker\bin\Debug\net6.0\ShortsMaker.dll
+C:\Users\monte\Dev\ShortsMaker\bin\Debug\net6.0\ShortsMaker.pdb
+C:\Users\monte\Dev\ShortsMaker\obj\Debug\net6.0\ShortsMaker.csproj.AssemblyReference.cache
+C:\Users\monte\Dev\ShortsMaker\obj\Debug\net6.0\ShortsMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monte\Dev\ShortsMaker\obj\Debug\net6.0\ShortsMaker.AssemblyInfoInputs.cache
+C:\Users\monte\Dev\ShortsMaker\obj\Debug\net6.0\ShortsMaker.AssemblyInfo.cs
+C:\Users\monte\Dev\ShortsMaker\obj\Debug\net6.0\ShortsMaker.csproj.CoreCompileInputs.cache
+C:\Users\monte\Dev\ShortsMaker\obj\Debug\net6.0\ShortsMaker.dll
+C:\Users\monte\Dev\ShortsMaker\obj\Debug\net6.0\refint\ShortsMaker.dll
+C:\Users\monte\Dev\ShortsMaker\obj\Debug\net6.0\ShortsMaker.pdb
+C:\Users\monte\Dev\ShortsMaker\obj\Debug\net6.0\ShortsMaker.genruntimeconfig.cache
+C:\Users\monte\Dev\ShortsMaker\obj\Debug\net6.0\ref\ShortsMaker.dll
